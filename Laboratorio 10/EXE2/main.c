@@ -10,7 +10,7 @@ int main()
     int op;
     do{
         do{
-            printf(" \n--- Fila Dinamica Encadeada --- \n\n");
+            printf(" \n--- Fila Estatica Sequencial --- \n\n");
             printf(" Escolha uma opcao\n");
             printf(" 1. Criar fila\n");
             printf(" 2. Verificar fila vazia\n");
